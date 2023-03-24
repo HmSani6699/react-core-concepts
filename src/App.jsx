@@ -10,8 +10,10 @@ function App() {
 
   return (
     <div className="App">
+
       <Device name="Device" details="Etai chilo amar jiboner boro vol"></Device>
       <Device name="Device" details="Etai chilo amar jiboner boro vol"></Device>
+
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
